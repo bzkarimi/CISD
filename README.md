@@ -1,6 +1,9 @@
 # cisd
 A simple CISD code
 
+Copyright &copy; 2016 Borna Zandkarimi  
+
+
 ## **General comments regarding the code**:
 
 1. In the "makefile" please change LIB to the directory in which the LAPACK is installed.  
